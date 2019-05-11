@@ -259,6 +259,20 @@ section {
 }
 
 /* ==============================================
+   How It Works
+===============================================*/
+
+#how-it-works .bullet-heading {
+  font-size: 24px;
+  font-weight: 500;
+  display: block;
+}
+
+#how-it-works .bullet-box {
+  margin-bottom: 1rem;
+}
+
+/* ==============================================
    5. Marketing
 ===============================================*/
 
